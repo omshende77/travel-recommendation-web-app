@@ -1,0 +1,27 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background: black;
+  color: white;
+  padding: 15px;
+}
+
+nav a {
+  color: white;
+  margin-right: 15px;
+  text-decoration: none;
+}
+
+.home {
+  padding: 30px;
+}
+
+img {
+  width: 300px;
+  height: 200px;
+  margin: 10px;
+}
